@@ -1,0 +1,1 @@
+pyinstaller -F -w --distpath=dist --paths=C:\Users\yuzhe\Desktop\Coding\Resizer\.venv\Lib\site-packages main.py
